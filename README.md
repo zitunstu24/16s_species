@@ -15,6 +15,6 @@ This project is for assigning taxonmy classes to 16s rRNA sequences
 3. Rscript heatmap.R 
 4. find the results in outputs folder
 
-Processing codes will be updated soon
+Processing codes will be updated soon and raw sequences will be given upon request. 
 
 if there is any questions please feel free to contact with me zitunstu24@gmail.com (Abul Khayer)
