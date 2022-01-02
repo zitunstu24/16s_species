@@ -8,6 +8,11 @@ This project is for assigning taxonmy classes to 16s rRNA sequences
 3. Further proccessing (e.g species names) in R
 4. processed data will be found in inputs folder
 
+# bechmarking
+
+data was analysed and benchmarked by dada2, quiime2 and blastn. 
+
+codes for benchmarking will be updated soon 
 
 # quick start
 1. git clone https://github.com/zitunstu24/16s_species
